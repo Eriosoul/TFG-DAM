@@ -1,0 +1,10 @@
+Usuario cliente:
+	cliente 
+pass	cliente
+
+Usuario Administrador:
+	admin
+pass	admin
+
+
+Nuestra tabla de ventas se llama prueba1 y la del detalle de la venta se llama prueba 2
